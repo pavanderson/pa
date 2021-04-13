@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pa/static/css/main.1c73eade.chunk.css",
+    "main.css": "/pa/static/css/main.2bf716d0.chunk.css",
     "main.js": "/pa/static/js/main.c35dc26a.chunk.js",
     "main.js.map": "/pa/static/js/main.c35dc26a.chunk.js.map",
     "runtime-main.js": "/pa/static/js/runtime-main.cb0a0047.js",
@@ -10,11 +10,11 @@
     "static/js/3.d29e0ecf.chunk.js": "/pa/static/js/3.d29e0ecf.chunk.js",
     "static/js/3.d29e0ecf.chunk.js.map": "/pa/static/js/3.d29e0ecf.chunk.js.map",
     "index.html": "/pa/index.html",
-    "static/css/main.1c73eade.chunk.css.map": "/pa/static/css/main.1c73eade.chunk.css.map",
+    "static/css/main.2bf716d0.chunk.css.map": "/pa/static/css/main.2bf716d0.chunk.css.map",
     "static/js/2.e2552273.chunk.js.LICENSE.txt": "/pa/static/js/2.e2552273.chunk.js.LICENSE.txt",
     "static/media/ABOUTME.3a097e50.png": "/pa/static/media/ABOUTME.3a097e50.png",
     "static/media/ContactsFon.1d1577f4.png": "/pa/static/media/ContactsFon.1d1577f4.png",
-    "static/media/App.scss": "/pa/static/media/Din-regular.45bed630.otf",
+    "static/media/App.scss": "/pa/static/media/DIN-regular.45bed630.otf",
     "static/media/PROJECTS.1d3b544c.png": "/pa/static/media/PROJECTS.1d3b544c.png",
     "static/media/WELCOME.3099fc3e.png": "/pa/static/media/WELCOME.3099fc3e.png",
     "static/media/arrDown.14c132f4.svg": "/pa/static/media/arrDown.14c132f4.svg",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.cb0a0047.js",
     "static/js/2.e2552273.chunk.js",
-    "static/css/main.1c73eade.chunk.css",
+    "static/css/main.2bf716d0.chunk.css",
     "static/js/main.c35dc26a.chunk.js"
   ]
 }
